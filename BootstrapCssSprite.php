@@ -1,7 +1,9 @@
 <?php
 
+namespace diaskooo\bootstrapssssprite;
+
 /**
- * BootstrapCssSprite as Yii component
+ * BootstrapCssSprite
  *
  * Displays multiple images as a sprite in a Bootstrap 3 style: <span class="img-kitty"></span>
  *
@@ -11,7 +13,7 @@
  * @author Oleg Poludnenko <oleg@poludnenko.info>
  * @version 0.6.7
  */
-class YiiBootstrapCssSprite extends CApplicationComponent
+class BootstrapCssSprite
 {
 
     /**
